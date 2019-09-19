@@ -1,2 +1,2 @@
-# scrips
+# scripts
 Just some scripts
