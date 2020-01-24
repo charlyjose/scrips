@@ -7,7 +7,7 @@ rem start "" https://mail.google.com/mail/u/1/
 rem start "" https://stackoverflow.com/
 rem start "" https://news.google.com/u/1/
 rem start "" https://www.bing.com/news/search?q=Top+stories
-start "" https://
+start /max http://about-blank
 
 :: Startup Programs
 start /max "" spotify.exe
